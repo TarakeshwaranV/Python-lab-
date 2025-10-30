@@ -1,18 +1,18 @@
 “Analysis of Monthly Sales Performance of a Retail Store”                         
  Dataset:
 Month	Sales (₹)	Profit (₹)	Customers	Advertisement Spend (₹)
-Jan	12000	2500	200	1500
-Feb	15000	3000	240	1700
-Mar	18000	3500	300	1900
-Apr	22000	5000	400	2100
-May	25000	6000	420	2500
-Jun	20000	4500	390	2000
-Jul	27000	6200	440	2600
-Aug	30000	7000	480	3000
-Sep	28000	6400	460	2800
-Oct	35000	8000	500	3300
-Nov	32000	7500	470	3100
-Dec	40000	9500	550	4000
+Jan	  12000	    2500	        200	       1500
+Feb	  15000	    3000	        240	       1700
+Mar	  18000	    3500	        300	       1900
+Apr	  22000	    5000	        400	       2100
+May	  25000	    6000	        420	       2500
+Jun	  20000	    4500	        390	       2000
+Jul	  27000	    6200	        440	       2600
+Aug	  30000	    7000	        480	       3000
+Sep	  28000	    6400	        460	       2800
+Oct	  35000	    8000	        500	       3300
+Nov	  32000	    7500	        470	       3100
+Dec	  40000	    9500	        550	       4000
 
 1.Bar Graph – Monthly Sales Comparison
 Code:
